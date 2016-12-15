@@ -13,7 +13,7 @@
 					<li><a href="" id="active">Home</a></li>
 					<li><a href="gallery.php">Gallery</a></li>
 					<li><a href="about.php">About us</a></li>
-					<li><a href="contactus.php">Contact us</a></li>
+					<li><a href="contactus.php">Contat us</a></li>
 						<ul id="social-links">
 							<li><a href="">F</a></li>
 							<li><a href="">T</a></li>
