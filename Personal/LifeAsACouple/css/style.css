@@ -1,0 +1,113 @@
+@import 'https://fonts.googleapis.com/css?family=Abel|Amatic+SC|Baloo+Bhai|Indie+Flower';
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	width: 100%;
+	height: 100%;
+	background-color: #eef2f3;
+}
+nav{
+	width: 100%;
+	background-color: #000;
+}
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display: inline-block;
+	width: 10%;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+nav ul li a{
+	text-decoration: none;
+	color: #ccc;
+	font-family: 'Baloo Bhai', cursive; 
+}
+header{
+	background-color: #fff;
+	padding-top: 30px;
+	padding-bottom: 30px
+}
+#blog-title{
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	font-size: 50px;
+	color: #e485ec;
+}
+#blog-sub-title{
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	color: #878487;
+	line-height: 5px;
+}
+#blogRoll{
+	width: 100%;
+	height: 300px;
+	margin-bottom: 20px;
+}
+#blog-roll-post{
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+#blog-roll-image{
+	width: 100%;
+	height: 200px;
+
+}
+#blog-post-infomation{
+	width: 99%;
+	height:100px;
+	float:left;
+	background-color: #fff;
+}
+#date{
+	font-family: 'Abel', sans-serif;
+	text-align: center;
+	height: 33%;
+}
+#blog-post-title{
+	font-family: 'Abel', sans-serif;
+	text-align: center;
+	height: 33%;
+}
+#Category{
+	font-family: 'Abel', sans-serif;
+	text-align: center;
+	color: #68cfde;
+	height: 33%;
+}
+#full-blog-post{
+	width: 1000px;
+	height: 200px;
+	margin: auto;
+	background-color: #fff;
+	padding: 25px;
+}
+#left-full-blog-post{
+	float: left;
+}
+#full-blog-post-image{
+	height: 200px;
+	margin-right: 10px;
+}
+#full-blog-title{
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+	font-size: 50px;
+}
+#full-post-data{
+	text-align: center;
+}
+#full-blog-date{
+	font-family: 'Amatic SC', cursive;
+	color: #898689;
+	text-align: center;
+}
+#full-blog-text{
+	font-family: 'Amatic SC', cursive;
+}

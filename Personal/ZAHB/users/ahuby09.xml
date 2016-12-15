@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<user>
+  <password>cc2308ea4a1978dd78778eed67f56732</password>
+  <email>ahuby100@hotmail.co.uk</email>
+  <balance>
+    <ammount-saved>0</ammount-saved>
+  </balance>
+  <savinggoals>
+    <goal>
+      <goalName>Car</goalName>
+      <ammounttosave>300</ammounttosave>
+      <goalammount>300</goalammount>
+      <saveweekly>34</saveweekly>
+    </goal>
+    <goal>
+      <goalName>Marrige</goalName>
+      <ammounttosave>4000</ammounttosave>
+      <goalammount>4000</goalammount>
+      <saveweekly>20</saveweekly>
+    </goal>
+  </savinggoals>
+</user>
